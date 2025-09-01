@@ -1,2 +1,2 @@
 # NewTry
-测试用仓库
+Repository for test.
